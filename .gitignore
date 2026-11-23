@@ -1,0 +1,14 @@
+node_modules/
+models/
+*.db
+*.db-journal
+*.wav
+*.m4a
+*.mp4
+*.jpg
+*.png
+*.gguf
+note.json
+corrections.json
+train.jsonl
+.DS_Store
